@@ -1,0 +1,6 @@
+name: DeathPlugin
+version: 1.0
+main: me.robin.deathplugin.Main
+api-version: "1.21"
+author: Kehlchen
+description: Setzt eine spezielle Todesnachricht fuer einen bestimmten Spieler.
